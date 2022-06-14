@@ -37,5 +37,9 @@
     'HAVE_UINT8_T=1',
     'HAVE_UINT16_T=1',
     'HAVE_UINT32_T=1',
+    'ENABLE_MMICU',
+    'SQLITE_HAS_CODEC',
+    'SQLITE_TEMP_STORE=2',
+    'SQLITE_SECURE_DELETE',
   ],
 }
